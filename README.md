@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9C27B0&center=true&vCenter=true&width=350&lines=Sivaji+Singiri" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9C27B0&center=true&vCenter=true&width=350&lines=I'm+Sivaji+Singiri" alt="Typing Animation" />
 </h1>
 
 <h3 align="center" style="color: #64B5F6;">
