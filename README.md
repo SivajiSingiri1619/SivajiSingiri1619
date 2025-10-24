@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9C27B0&center=true&vCenter=true&width=435&lines=Hello!+I'm+Sivaji+Singiri;Aspiring+Full+Stack+Developer" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=9C27B0&center=true&vCenter=true&width=350&lines=Sivaji+Singiri" alt="Typing Animation" />
 </h1>
 
 <h3 align="center" style="color: #64B5F6;">
-  A 3rd Year B.Tech Student | Relentlessly exploring technologies
+  A 3rd Year B.Tech Student | Aspiring Full Stack Developer | Relentlessly exploring technologies
 </h3>
 
 <p align="center">
@@ -34,20 +34,20 @@ Here are some ideas to get you started:
 ## 💻 My Current Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.io.g-u-c.com/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.io.g-u-c.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <br>
-  <img src="https://img.io.g-u-c.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.io.g-u-c.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
 ---
@@ -74,9 +74,10 @@ I prioritize a strong foundation in Data Structures and Algorithms by engaging w
   <a href="mailto:singirisivaji@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=SivajiSingiri1619&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sivaji's GitHub Stats" />
-  </p>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SivajiSingiri1619&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Sivaji's GitHub Stats" />
 </p>
 
 <p align="center" style="font-style: italic; color: #BBDEFB;">
